@@ -122,6 +122,4 @@ class TextFormatter {
         String head = aText.substring(0, pos);
         return new String[] {head, tail};
     }
-
-
 }
